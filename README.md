@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
 	<meta charset="UTF-8">
-	<title>test1</title>
+	<title>test4324341</title>
 </head>
 <body>
 	<div id="main">
